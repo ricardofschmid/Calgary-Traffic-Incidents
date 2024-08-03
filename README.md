@@ -1,4 +1,4 @@
-# Calgary-Traffic-Incidents
+# Calgary Traffic Incidents
 Traffic incidents for the City of Calgary from 2020 to 2023.
 
 This project was developed as part of my Professional Certificate in Data Science at the Southern Alberta Institute of Technology. The primary objectives of the project include:
